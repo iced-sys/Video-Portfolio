@@ -4,7 +4,7 @@ References to unlisted videos on YouTube for seeing gameplay mechanics working i
 QTE System:
 - Variations: Actions, Sequences (combinations of actions)
 - Resposnive UI with a tolerance zone for failure
-- 
+ 
 https://youtu.be/ZFZsybbEnKM
 
 Parkour System:
